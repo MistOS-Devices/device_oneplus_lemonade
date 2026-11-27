@@ -1,0 +1,32 @@
+[
+    {
+        "repository": "MistOS-Devices/device_oneplus_sm8350-common",
+        "target_path": "device/oneplus/sm8350-common",
+        "branch": "17"
+    },
+    {
+        "repository": "MistOS-Devices/kernel_oneplus_sm8350",
+        "target_path": "kernel/oneplus/sm8350",
+        "branch": "17"
+    },
+    {
+        "repository": "MistOS-Devices/vendor_oneplus_lemonade",
+        "target_path": "vendor/oneplus/lemonade",
+        "branch": "17"
+    },
+    {
+        "repository": "MistOS-Devices/vendor_oneplus_sm8350-common",
+        "target_path": "vendor/oneplus/sm8350-common",
+        "branch": "17"
+    },
+    {
+        "repository": "spidey-op9/open_oplus_camera",
+        "target_path": "vendor/oplus/camera",
+        "branch": "17"
+    },
+    {
+        "repository": "spidey-op9/open_oplus_camera_blobs",
+        "target_path": "vendor/oplus/camera-blobs",
+        "branch": "17"
+    }
+]

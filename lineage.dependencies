@@ -28,5 +28,10 @@
         "repository": "spidey-op9/open_oplus_camera_blobs",
         "target_path": "vendor/oplus/camera-blobs",
         "branch": "17"
-    }
+    },
+    {
+    "repository": "spidey-op9/hardware_oplus",
+    "target_path": "hardware/oplus",
+    "branch": "17"
+}
 ]

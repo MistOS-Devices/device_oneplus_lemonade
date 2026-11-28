@@ -33,5 +33,11 @@
     "repository": "spidey-op9/hardware_oplus",
     "target_path": "hardware/oplus",
     "branch": "17"
-}
+    },
+    {
+    "repository": "avalon-stuffs/proprietary_vendor_sony_dolby",
+    "target_path": "vendor/sony/dolby",
+    "remote": "github",
+    "branch": "16"
+    }
 ]

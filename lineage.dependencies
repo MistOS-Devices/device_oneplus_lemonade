@@ -41,9 +41,9 @@
     "branch": "16"
     },
     {
-    "repository": "yaap/hardware_pixelworks_interfaces",
+    "repository": "abhinav2005git/hardware_pixelworks_interfaces",
     "target_path": "hardware/pixelworks/interfaces",
     "remote": "github",
-    "branch": "sixteen"
+    "branch": "17"
      }
 ]

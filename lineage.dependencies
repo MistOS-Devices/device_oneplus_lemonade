@@ -30,9 +30,9 @@
         "branch": "17"
     },
     {
-    "repository": "varakumar02/android_hardware_oplus",
+    "repository": "spidey-op9/android_hardware_oplus",
     "target_path": "hardware/oplus",
-    "branch": "aox"
+    "branch": "aox-patch"
     },
     {
     "repository": "avalon-stuffs/proprietary_vendor_sony_dolby",

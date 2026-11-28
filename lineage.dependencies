@@ -30,9 +30,9 @@
         "branch": "17"
     },
     {
-    "repository": "spidey-op9/hardware_oplus",
+    "repository": "LineageOS/android_hardware_oplus",
     "target_path": "hardware/oplus",
-    "branch": "17"
+    "branch": "lineage-24.0"
     },
     {
     "repository": "avalon-stuffs/proprietary_vendor_sony_dolby",

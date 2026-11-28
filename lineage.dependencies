@@ -41,9 +41,9 @@
     "branch": "16"
     },
     {
-    "repository": "pjgowtham/hardware_pixelworks_interfaces",
+    "repository": "yaap/hardware_pixelworks_interfaces",
     "target_path": "hardware/pixelworks/interfaces",
     "remote": "github",
-    "branch": "lineage-22.2"
+    "branch": "sixteen"
      }
 ]
